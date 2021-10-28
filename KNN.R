@@ -1,4 +1,3 @@
-#Dessislava A. Pachamanova
 #kNN Example with Categorical Target Variable: Lawn Mower Ownership
 #Steps for using kNN:
 #1. Read in data; split into training and test sets
